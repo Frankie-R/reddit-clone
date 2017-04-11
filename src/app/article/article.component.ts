@@ -1,7 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { Article } from '../article';
 
-
 @Component({
   selector: 'app-article',
   templateUrl: './article.component.html',
